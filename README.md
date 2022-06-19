@@ -31,5 +31,5 @@ When the user click on the school name from the right section, the view chart wi
 3. A chart renders the data of the selected schools similar to the image above.
 4. On the right of the screen, the total number of lessons is displayed for the selected Camp, School, and Country, followed by a list of the schools with how many lessons each offers.
 5. The user can click on the school from the schools list **point 4**.
-6. Upon clicking on a point in the chart from **point 5**, the app will navigate to another page where all the details of that item are shown like country, camp, school, month, total of lessons and detailed view of lessons per each month.
+6. Upon clicking on the school in the right screen from **point 5**, the app will navigate to another page where all the details of that item are shown like country, camp, school, month, total of lessons and detailed view of lessons per each month.
 7. After coming back from the details page implemented in **point 6**, the last filtering state should be preserved.
