@@ -16,10 +16,10 @@ You can start checking the main page directly @[http://localhost:3000](http://lo
 The page auto-updates as you edit the file.
 
 The view will look like this screenshot, you'll select a country and a camps to start loading the corresponding data related to the schools.
-[alt text](https://github.com/rawdaelsakka/chart-assessment/public/1.png?raw=true)
+![design](https://github.com/rawdaelsakka/chart-assessment/public/1.png?raw=true)
 
 Upon selection the view chart will be loaded like the following screen.
-[alt text](https://github.com/rawdaelsakka/chart-assessment/public/2.png?raw=true)
+![design](https://github.com/rawdaelsakka/chart-assessment/public/2.png?raw=true)
 ## Learn more
 1. Loading the raw data from the server from [https://raw.githubusercontent.com/abdelrhman-arnos/analysis-fe-challenge/master/data.json](https://raw.githubusercontent.com/abdelrhman-arnos/analysis-fe-challenge/master/data.json)
 2. The user will see 3 drop-down lists at the top should filter the data. When the user selects the country and camp the schools dropdown will be loaded with data.
